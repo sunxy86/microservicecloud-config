@@ -8,7 +8,7 @@ spring:
  application:
   name: microservicecloud-config-intact-dev  
 ---
-sping:
+spring:
  profiles: test  #测试环境
  application:
   name: microservicecloud-config-intact-test
